@@ -1,0 +1,15 @@
+Packages are used to group similar classes, interfaces and enums together.
+
+*uses of packages:-
+1)Naming convinience - We can make classes with the same name in different packages.
+					   Hence We are able to use the same same again and agian.
+
+2)Package provide protection to the clsses and interfaces because the access specifier work on the
+  basis of packages.
+  Example: default methods or variables will not be visible from any class present outside the package.
+
+3)Code reusability - If we want to use the code of a class from some other package we have to option of
+                     importing that class in our program.
+                     
+Sub Packages: These are packages made inside another package.
+

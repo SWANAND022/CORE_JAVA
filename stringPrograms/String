@@ -1,0 +1,6 @@
+String is a final predefined class.
+
+String objects are used to store sequence of character.
+
+Since string is a final class we will not be able to extend any class to this string class.
+
